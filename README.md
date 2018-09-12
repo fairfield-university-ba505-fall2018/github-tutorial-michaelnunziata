@@ -3,6 +3,7 @@
 
 
 #Purpose of this assignment
+
 This *tutorial* has taught me how to navigate between atom and GitHub Desktop and understand the basics of each programs.
 
 https://github.com/fairfield-university-ba505-fall2018/github-tutorial-michaelnunziata/blob/master/Mary.md
